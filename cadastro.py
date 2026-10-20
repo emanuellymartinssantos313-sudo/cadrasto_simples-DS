@@ -15,6 +15,9 @@ While True:
         print("=============================")
         print("===tela de login===")
         print("=============================")
+    elif (opcao == 3)
+    print("voce esta saindo do cadastro, ate mais!")
+        break
     else:
-        print("voce esta saindo do aplicativo ,ate mais!")
-        break+
+        print("valor digitado, invalido, use apenas números inteíros do menu")
+
